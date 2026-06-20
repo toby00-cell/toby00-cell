@@ -11,9 +11,9 @@
 
 ### 🚀 About me
 
-I'm a final-year Software Engineering student at Baze University, Abuja, building full-stack web apps, AI agents/chatbots, and digital products for Nigerian businesses. I care about clean code, fast products, and shipping things that actually work.
+I'm a Software Engineering student at Baze University, Abuja, building full-stack web apps, AI agents/chatbots, and digital products for Nigerian businesses. I care about clean code, fast products, and shipping things that actually work.
 
-- 🔭 Currently building **ScoutNG** — a platform revolutionizing grassroots football scouting in Nigeria while supporting mental wellness for young athletes
+- 🔭 Currently building **ninety minds** — a platform revolutionizing grassroots football scouting in Nigeria while supporting mental wellness for young athletes
 - 🌱 Learning AWS cloud engineering to go deeper on backend infrastructure
 - 💼 Open to freelance, contract, and full-time roles
 - 📫 Reach me on [WhatsApp](https://wa.me/2349040522602) or joelbright508@gmail.com
