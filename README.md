@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bright Joel 👋</h1>
+<h1 align="center">Bright Tobi Joel </h1>
 <h3 align="center">Software Developer · Building products that ship, not prototypes that don't.</h3>
 
 <p align="center">
